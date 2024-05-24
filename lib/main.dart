@@ -42,9 +42,9 @@ class _QuestionAppState extends State<QuestionApp> {
     {
       'texto': 'Quanto é o resultado de -2 X 2?',
       'respostas': [
-        {'texto': '5', 'correta': false},
+        {'texto': '4', 'correta': false},
         {'texto': '-5', 'correta': false},
-        {'texto': '4', 'correta': true},
+        {'texto': '-4', 'correta': true},
         {'texto': '8', 'correta': false},
       ]
     }
